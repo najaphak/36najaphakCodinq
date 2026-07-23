@@ -12,4 +12,4 @@ else:
     print("ระดับคะแนน = ดีเยี่ยม")
 
     print("ระดับคะแนนของคุณ = ", total_score)
-    print("คะแนนเฉลี่ย 3 วิชา = ", total_score / 3)
+    print("คะแนนเฉลี่ย 3 วิชา = ", total_score /3 )

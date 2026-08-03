@@ -25,3 +25,7 @@
 
 9/07/69
 เขียนโปรแกรมตารางสูตรคูณ
+
+3/08/69
+Mini Project 1 - ทำแบบฟอร์ม Pitch Discussion
+MiniProject2 - เขียนรายละเอียดไอเดีย mini project เบื้องต้น
